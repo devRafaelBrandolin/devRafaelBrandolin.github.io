@@ -110,21 +110,6 @@ body {
   background: rgb(16, 16, 16);
 }
 
-.download {
-  background: #993399;
-  padding: 5px 5px;
-  text-align: center;
-  margin-top: 50px;
-  cursor: pointer;
-  border-radius: 10px;
-  border-color: orange;
-  color: white;
-}
-
-.download:hover {
-  opacity: 0.5;
-}
-
 .container-sobremim {
   text-align: center;
   margin-top: 200px;
