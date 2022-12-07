@@ -67,23 +67,6 @@ h2 {
 
 }
 
-.firstHeader {
-  background: black;
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
-  flex-wrap: wrap;
-  width: 100%;
-  background: linear-gradient(45deg,
-      var(--color-preto-900),
-      var(--color-preto-800),
-      var(--color-cinza-700),
-      var(--color-cinza-600),
-      var(--color-cinza-500));
-  background-size: 1000% 1000%;
-  animation: colors 10s ease-in-out infinite;
-}
-
 @keyframes colors {
   0% {
     background-position: 0% 25%;
