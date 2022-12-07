@@ -268,23 +268,6 @@ body {
   height: 300px
 }
 
-.button-visualizar {
-  width: 100%;
-  padding: 0.3rem;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s all ease-in-out;
-  border-color: white;
-}
-
-
-.button-visualizar:hover {
-  transform: scale(1.1, 1.1);
-  background-color: #993399;
-  color: white;
-  border-color: orange;
-}
-
 .contact-title {
   text-align: center;
   margin-top: 250px;
